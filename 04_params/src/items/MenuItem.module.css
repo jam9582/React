@@ -1,0 +1,12 @@
+.MenuItem{
+    width: 300px;
+    background-color: antiquewhite;
+    cursor: pointer;
+    color: violet
+}
+
+/* 마우스를 올렸을 때 css 설정 */
+.MenuItem:hover{
+    background-color: chocolate;
+    color: black;
+}
